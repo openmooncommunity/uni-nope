@@ -1,0 +1,33 @@
+{
+  "name": "uni-nope",
+  "version": "1.0.0",
+  "description": "RegExp for non-ASCII characters filtering.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openmooncommunity/uni-nope.git"
+  },
+  "keywords": [
+    "RegExp",
+    "regex",
+    "ASCII",
+    "non-ASCII",
+    "Unicode",
+    "character",
+    "filtering",
+    "text",
+    "processing"
+  ],
+  "author": "SpaceHub Studio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openmooncommunity/uni-nope/issues"
+  },
+  "homepage": "https://github.com/openmooncommunity/uni-nope#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
